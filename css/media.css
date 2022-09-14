@@ -1,0 +1,154 @@
+@media(max-width:320px) {
+  .header{
+      width: 400%;
+      height: 25%;
+  }
+
+  .header_left{
+      margin-left: 50px;
+  }
+
+  .header_right{
+      margin-right: 30px;
+  }
+
+  .main{
+      margin-left: 50px;
+      font-size: 12px;
+  }
+
+  .content_topRight{
+      margin:10px 0px 0px 320px;
+  }
+
+  .badge{
+      padding: 5px 500px 5px 0px;
+  }
+
+  .Gold{
+      width: 175px;
+  }
+
+  .Silver{
+      width: 175px;
+      margin: -200px 440px 0px 0px;
+  }
+
+  .Bronze{
+      width: 175px;
+      margin: -200px 210px 0px 0px;
+  }
+
+  .content_lower, .tag_content, .post_content, .Meta_content, .net_content{
+      width: 680px;
+  }
+
+  .top_Tags{
+      padding: 8px 510px 10px 0px;
+  }
+
+  .view_tags{
+      padding-top: 18px;
+  }
+
+  .hashdotimg{
+      padding: 9px 330px 0px 12px;
+  }
+
+  .javadotimg{
+      padding: 9px 324px 0px 12px;
+  }
+
+  .netdotimg{
+      padding: 9px 343px 0px 12px;
+  }
+
+  .linqdotimg{
+      padding: 9px 354px 0px 12px;
+  }
+
+  .stringdotimg{
+      padding: 9px 343px 0px 12px;
+  }
+
+  .genericdotimg{
+      padding: 9px 324px 0px 12px;
+  }
+
+  .gues span{
+      padding: 8px 175px 0px 0px;
+  }
+
+  .Jul, .Jan, .Sep, .Oct, .Octo, .Nov, .Nove, .May, .Mar, .site_bottom a, .date{
+      display: none;
+  }
+
+  a.ans-one, a.ans-two, a.ans-three, a.ans-four, a.ans-five, a.ans-six, a.ans-seven, a.ans-eight, a.ans-nine, a.ans-ten{
+      padding: 5px 0px 0px 0px;
+  }
+
+  .meta_post{
+      padding: 8px 422px 10px 0px;
+  }
+
+  .tag_work{
+      padding: 8px 353px 10px 0px;
+  }
+
+  .bottom{
+      width: 400%;
+  }
+}
+
+@media (max-width:768px) {
+  .header{
+      width: 200%;
+  }
+
+  .header_left{
+      margin-left: 50px;
+  }
+
+  .header_right{
+      margin-right: 50px;
+  }
+
+  .main{
+      margin-left: 50px;
+  }
+
+  .content_topRight{
+      margin: 10px 0px 0px 538px;
+  }
+
+  .bottom{
+      width: 200%;
+  }
+}
+
+@media (max-width:1024px) {
+  .header{
+      width: 150%;
+  }
+
+  .header_left{
+      margin-left: 105px;
+  }
+
+  .header_right{
+      margin-right: 50px;
+  }
+
+  .main{
+      margin-left: 105px;
+      width: 1423px;
+  }
+
+  .content_topRight{
+      margin: 10px 0px 0px 505px;
+  }
+
+  .bottom{
+      width: 151%;
+  }
+}
